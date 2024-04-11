@@ -1,6 +1,6 @@
-# <h1> This is a test communication </h1>
+#  This is a test page.
 
-# <h4> I added a header to the page </h4>
+#### I added a header to the page
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ``` javascript
